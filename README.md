@@ -1,1 +1,1 @@
-# pokedex-reactjs
+# pokedex-UI
